@@ -1,0 +1,234 @@
+      dimen_array        结果       标准差   tr = 2
+dimen=5 ====     43.08      3.76
+      dimen_array        结果       标准差   tr = 2
+dimen=10 ====     63.51      4.01
+      dimen_array        结果       标准差   tr = 2
+dimen=15 ====     68.09      4.62
+      dimen_array        结果       标准差   tr = 2
+dimen=20 ====     73.81      2.75
+      dimen_array        结果       标准差   tr = 2
+dimen=25 ====     76.42      2.50
+      dimen_array        结果       标准差   tr = 2
+dimen=30 ====     72.84      3.42
+      dimen_array        结果       标准差   tr = 2
+dimen=35 ====     74.77      4.07
+      dimen_array        结果       标准差   tr = 2
+dimen=40 ====     74.82      4.41
+      dimen_array        结果       标准差   tr = 2
+dimen=45 ====     70.92      3.99
+      dimen_array        结果       标准差   tr = 2
+dimen=50 ====     73.06      4.45
+      dimen_array        结果       标准差   tr = 2
+dimen=55 ====     76.54      3.21
+      dimen_array        结果       标准差   tr = 2
+dimen=60 ====     73.76      3.11
+      dimen_array        结果       标准差   tr = 2
+dimen=65 ====     71.77      4.33
+      dimen_array        结果       标准差   tr = 2
+dimen=70 ====     78.45      3.19
+      dimen_array        结果       标准差   tr = 2
+dimen=75 ====     77.53      4.75
+所调节的参数为dimen
+最高的是78.45,参数为 =       70.00
+      dimen_array        结果       标准差   tr = 2
+dimen=67 ====     78.45      3.85
+      dimen_array        结果       标准差   tr = 2
+dimen=68 ====     73.34      3.81
+      dimen_array        结果       标准差   tr = 2
+dimen=69 ====     76.93      2.36
+      dimen_array        结果       标准差   tr = 2
+dimen=70 ====     76.00      3.12
+      dimen_array        结果       标准差   tr = 2
+dimen=71 ====     74.97      3.85
+      dimen_array        结果       标准差   tr = 2
+dimen=72 ====     76.63      3.31
+      dimen_array        结果       标准差   tr = 2
+dimen=73 ====     76.26      3.57
+所调节的参数为dimen
+最高的是78.45,参数为 =       67.00
+      dimen_array        结果       标准差   tr = 2
+alpha=0.001 ====     42.83      6.44
+      dimen_array        结果       标准差   tr = 2
+alpha=0.01 ====     37.77      5.38
+      dimen_array        结果       标准差   tr = 2
+alpha=0.1 ====     39.79      9.00
+      dimen_array        结果       标准差   tr = 2
+alpha=1 ====     82.55      2.86
+      dimen_array        结果       标准差   tr = 2
+alpha=10 ====     79.67      3.53
+      dimen_array        结果       标准差   tr = 2
+alpha=100 ====     76.22      2.99
+所调节的参数为alpha
+最高的是82.55,参数为 =        1.00
+      dimen_array        结果       标准差   tr = 2
+alpha=0.25 ====     61.62      8.55
+      dimen_array        结果       标准差   tr = 2
+alpha=0.5 ====     77.03      3.50
+      dimen_array        结果       标准差   tr = 2
+alpha=0.75 ====     81.20      2.74
+      dimen_array        结果       标准差   tr = 2
+alpha=1 ====     81.32      3.27
+      dimen_array        结果       标准差   tr = 2
+alpha=2.5 ====     81.22      3.79
+      dimen_array        结果       标准差   tr = 2
+alpha=5 ====     81.49      3.55
+      dimen_array        结果       标准差   tr = 2
+alpha=7.5 ====     79.78      3.99
+所调节的参数为alpha
+最高的是81.49,参数为 =        5.00
+      dimen_array        结果       标准差   tr = 3
+dimen=5 ====     67.79      4.03
+      dimen_array        结果       标准差   tr = 3
+dimen=10 ====     79.94      3.17
+      dimen_array        结果       标准差   tr = 3
+dimen=15 ====     80.91      4.89
+      dimen_array        结果       标准差   tr = 3
+dimen=20 ====     85.42      3.53
+      dimen_array        结果       标准差   tr = 3
+dimen=25 ====     82.59      3.09
+      dimen_array        结果       标准差   tr = 3
+dimen=30 ====     84.54      3.29
+      dimen_array        结果       标准差   tr = 3
+dimen=35 ====     83.94      2.09
+      dimen_array        结果       标准差   tr = 3
+dimen=40 ====     83.24      4.74
+      dimen_array        结果       标准差   tr = 3
+dimen=45 ====     82.29      5.81
+      dimen_array        结果       标准差   tr = 3
+dimen=50 ====     82.79      3.21
+      dimen_array        结果       标准差   tr = 3
+dimen=55 ====     83.37      3.53
+      dimen_array        结果       标准差   tr = 3
+dimen=60 ====     84.26      3.92
+      dimen_array        结果       标准差   tr = 3
+dimen=65 ====     83.97      3.42
+      dimen_array        结果       标准差   tr = 3
+dimen=70 ====     81.68      3.13
+      dimen_array        结果       标准差   tr = 3
+dimen=75 ====     83.44      4.70
+所调节的参数为dimen
+最高的是85.42,参数为 =       20.00
+      dimen_array        结果       标准差   tr = 3
+dimen=17 ====     83.65      2.66
+      dimen_array        结果       标准差   tr = 3
+dimen=18 ====     83.69      2.32
+      dimen_array        结果       标准差   tr = 3
+dimen=19 ====     85.34      2.91
+      dimen_array        结果       标准差   tr = 3
+dimen=20 ====     83.46      3.37
+      dimen_array        结果       标准差   tr = 3
+dimen=21 ====     84.02      3.59
+      dimen_array        结果       标准差   tr = 3
+dimen=22 ====     84.31      3.44
+      dimen_array        结果       标准差   tr = 3
+dimen=23 ====     84.19      3.11
+所调节的参数为dimen
+最高的是85.34,参数为 =       19.00
+      dimen_array        结果       标准差   tr = 3
+alpha=0.001 ====     20.25      5.58
+      dimen_array        结果       标准差   tr = 3
+alpha=0.01 ====     21.40      3.84
+      dimen_array        结果       标准差   tr = 3
+alpha=0.1 ====     41.12     12.53
+      dimen_array        结果       标准差   tr = 3
+alpha=1 ====     84.19      3.49
+      dimen_array        结果       标准差   tr = 3
+alpha=10 ====     87.41      3.09
+      dimen_array        结果       标准差   tr = 3
+alpha=100 ====     84.94      3.23
+所调节的参数为alpha
+最高的是87.41,参数为 =       10.00
+      dimen_array        结果       标准差   tr = 3
+alpha=2.5 ====     89.47      2.59
+      dimen_array        结果       标准差   tr = 3
+alpha=5 ====     87.44      3.38
+      dimen_array        结果       标准差   tr = 3
+alpha=7.5 ====     86.79      2.82
+      dimen_array        结果       标准差   tr = 3
+alpha=10 ====     85.11      4.07
+      dimen_array        结果       标准差   tr = 3
+alpha=25 ====     84.81      3.79
+      dimen_array        结果       标准差   tr = 3
+alpha=50 ====     84.77      3.83
+      dimen_array        结果       标准差   tr = 3
+alpha=75 ====     84.10      2.67
+所调节的参数为alpha
+最高的是89.47,参数为 =        2.50
+      dimen_array        结果       标准差   tr = 4
+dimen=5 ====     74.14      5.96
+      dimen_array        结果       标准差   tr = 4
+dimen=10 ====     85.98      3.03
+      dimen_array        结果       标准差   tr = 4
+dimen=15 ====     90.25      3.52
+      dimen_array        结果       标准差   tr = 4
+dimen=20 ====     90.26      2.72
+      dimen_array        结果       标准差   tr = 4
+dimen=25 ====     91.02      2.42
+      dimen_array        结果       标准差   tr = 4
+dimen=30 ====     90.69      3.53
+      dimen_array        结果       标准差   tr = 4
+dimen=35 ====     89.85      2.51
+      dimen_array        结果       标准差   tr = 4
+dimen=40 ====     88.48      3.32
+      dimen_array        结果       标准差   tr = 4
+dimen=45 ====     88.96      3.14
+      dimen_array        结果       标准差   tr = 4
+dimen=50 ====     87.27      2.82
+      dimen_array        结果       标准差   tr = 4
+dimen=55 ====     91.32      2.00
+      dimen_array        结果       标准差   tr = 4
+dimen=60 ====     89.30      4.68
+      dimen_array        结果       标准差   tr = 4
+dimen=65 ====     87.83      3.64
+      dimen_array        结果       标准差   tr = 4
+dimen=70 ====     88.88      3.06
+      dimen_array        结果       标准差   tr = 4
+dimen=75 ====     89.31      2.45
+所调节的参数为dimen
+最高的是91.32,参数为 =       55.00
+      dimen_array        结果       标准差   tr = 4
+dimen=52 ====     89.76      2.66
+      dimen_array        结果       标准差   tr = 4
+dimen=53 ====     90.52      3.30
+      dimen_array        结果       标准差   tr = 4
+dimen=54 ====     87.89      3.80
+      dimen_array        结果       标准差   tr = 4
+dimen=55 ====     89.22      2.99
+      dimen_array        结果       标准差   tr = 4
+dimen=56 ====     90.08      2.24
+      dimen_array        结果       标准差   tr = 4
+dimen=57 ====     87.64      2.35
+      dimen_array        结果       标准差   tr = 4
+dimen=58 ====     89.74      3.30
+所调节的参数为dimen
+最高的是90.52,参数为 =       53.00
+      dimen_array        结果       标准差   tr = 4
+alpha=0.001 ====     19.95      4.61
+      dimen_array        结果       标准差   tr = 4
+alpha=0.01 ====     36.59      5.60
+      dimen_array        结果       标准差   tr = 4
+alpha=0.1 ====     70.42     11.20
+      dimen_array        结果       标准差   tr = 4
+alpha=1 ====     92.29      2.55
+      dimen_array        结果       标准差   tr = 4
+alpha=10 ====     91.54      2.19
+      dimen_array        结果       标准差   tr = 4
+alpha=100 ====     87.80      3.72
+所调节的参数为alpha
+最高的是92.29,参数为 =        1.00
+      dimen_array        结果       标准差   tr = 4
+alpha=0.25 ====     84.02      4.51
+      dimen_array        结果       标准差   tr = 4
+alpha=0.5 ====     90.45      3.47
+      dimen_array        结果       标准差   tr = 4
+alpha=0.75 ====     92.82      2.08
+      dimen_array        结果       标准差   tr = 4
+alpha=1 ====     92.94      2.12
+      dimen_array        结果       标准差   tr = 4
+alpha=2.5 ====     94.09      2.94
+      dimen_array        结果       标准差   tr = 4
+alpha=5 ====     93.28      1.18
+      dimen_array        结果       标准差   tr = 4
+alpha=7.5 ====     94.06      2.23
+所调节的参数为alpha
+最高的是94.09,参数为 =        2.50

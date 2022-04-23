@@ -1,0 +1,2 @@
+      dimen_array        结果       标准差   tr = 2
+      dimen_array        结果       标准差   tr = 2

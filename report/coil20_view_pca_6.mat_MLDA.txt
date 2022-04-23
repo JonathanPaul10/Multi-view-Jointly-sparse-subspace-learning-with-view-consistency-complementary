@@ -1,0 +1,112 @@
+      dimen_array        结果       标准差   tr = 2
+dimen=5 ====      5.44      1.02
+      dimen_array        结果       标准差   tr = 2
+      dimen_array        结果       标准差   tr = 2
+      dimen_array        结果       标准差   tr = 2
+      dimen_array        结果       标准差   tr = 2
+dimen=5 ====      5.01      0.92
+      dimen_array        结果       标准差   tr = 2
+dimen=10 ====      4.99      1.28
+      dimen_array        结果       标准差   tr = 2
+      dimen_array        结果       标准差   tr = 2
+dimen=5 ====      4.97      1.14
+      dimen_array        结果       标准差   tr = 2
+dimen=10 ====      5.12      1.02
+      dimen_array        结果       标准差   tr = 2
+dimen=15 ====      5.19      0.83
+      dimen_array        结果       标准差   tr = 2
+dimen=20 ====      5.19      1.15
+      dimen_array        结果       标准差   tr = 2
+      dimen_array        结果       标准差   tr = 2
+      dimen_array        结果       标准差   tr = 2
+      dimen_array        结果       标准差   tr = 2
+      dimen_array        结果       标准差   tr = 2
+      dimen_array        结果       标准差   tr = 2
+      dimen_array        结果       标准差   tr = 2
+      dimen_array        结果       标准差   tr = 2
+      dimen_array        结果       标准差   tr = 2
+      dimen_array        结果       标准差   tr = 2
+      dimen_array        结果       标准差   tr = 2
+dimen=5 ====     22.24      4.07
+      dimen_array        结果       标准差   tr = 2
+      dimen_array        结果       标准差   tr = 2
+dimen=5 ====     20.58      0.00
+      dimen_array        结果       标准差   tr = 2
+dimen=10 ====     35.50      0.00
+      dimen_array        结果       标准差   tr = 2
+dimen=15 ====     51.50      0.00
+      dimen_array        结果       标准差   tr = 2
+dimen=20 ====     78.67      0.00
+      dimen_array        结果       标准差   tr = 2
+dimen=25 ====     79.25      0.00
+      dimen_array        结果       标准差   tr = 2
+dimen=30 ====     71.50      0.00
+      dimen_array        结果       标准差   tr = 2
+dimen=35 ====     71.67      0.00
+      dimen_array        结果       标准差   tr = 2
+dimen=40 ====     63.25      0.00
+      dimen_array        结果       标准差   tr = 2
+dimen=45 ====     68.50      0.00
+      dimen_array        结果       标准差   tr = 2
+dimen=50 ====     68.92      0.00
+      dimen_array        结果       标准差   tr = 2
+dimen=55 ====     66.00      0.00
+      dimen_array        结果       标准差   tr = 2
+dimen=60 ====     66.25      0.00
+      dimen_array        结果       标准差   tr = 2
+dimen=65 ====     63.25      0.00
+      dimen_array        结果       标准差   tr = 2
+dimen=70 ====     62.08      0.00
+      dimen_array        结果       标准差   tr = 2
+dimen=75 ====     50.00      0.00
+      dimen_array        结果       标准差   tr = 2
+dimen=80 ====     57.83      0.00
+      dimen_array        结果       标准差   tr = 2
+      dimen_array        结果       标准差   tr = 2
+      dimen_array        结果       标准差   tr = 4
+      dimen_array        结果       标准差   tr = 4
+dimen=5 ====     47.50      0.00
+      dimen_array        结果       标准差   tr = 4
+dimen=10 ====     82.08      0.00
+      dimen_array        结果       标准差   tr = 4
+dimen=15 ====     78.12      0.00
+      dimen_array        结果       标准差   tr = 4
+dimen=20 ====     91.67      0.00
+      dimen_array        结果       标准差   tr = 4
+dimen=25 ====     88.23      0.00
+      dimen_array        结果       标准差   tr = 4
+dimen=30 ====     90.94      0.00
+      dimen_array        结果       标准差   tr = 4
+      dimen_array        结果       标准差   tr = 4
+dimen=5 ====     47.81      0.00
+      dimen_array        结果       标准差   tr = 4
+dimen=10 ====     77.19      0.00
+      dimen_array        结果       标准差   tr = 4
+dimen=15 ====     79.58      0.00
+      dimen_array        结果       标准差   tr = 4
+dimen=20 ====     91.77      0.00
+      dimen_array        结果       标准差   tr = 4
+dimen=25 ====     90.73      0.00
+      dimen_array        结果       标准差   tr = 4
+dimen=30 ====     89.69      0.00
+      dimen_array        结果       标准差   tr = 4
+      dimen_array        结果       标准差   tr = 2
+dimen=5 ====      6.25      0.00
+      dimen_array        结果       标准差   tr = 2
+dimen=10 ====      4.58      0.00
+      dimen_array        结果       标准差   tr = 2
+dimen=15 ====     27.83      0.00
+      dimen_array        结果       标准差   tr = 2
+dimen=20 ====      3.00      0.00
+      dimen_array        结果       标准差   tr = 2
+dimen=25 ====      6.75      0.00
+      dimen_array        结果       标准差   tr = 2
+dimen=30 ====      4.33      0.00
+      dimen_array        结果       标准差   tr = 2
+dimen=35 ====      6.17      0.00
+      dimen_array        结果       标准差   tr = 2
+      dimen_array        结果       标准差   tr = 4
+dimen=5 ====     74.38      0.00
+      dimen_array        结果       标准差   tr = 4
+dimen=10 ====     86.88      0.00
+      dimen_array        结果       标准差   tr = 4
